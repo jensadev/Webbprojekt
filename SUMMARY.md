@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Start](README.md)
+* [Planering](planering.md)
+* [Dokumentation](dokumentation.md)
+* [Uppföljning](uppfoeljning.md)
 
