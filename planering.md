@@ -16,7 +16,7 @@ Projektets vision ska inte vara ett tekniskt dokument utan det ska vara ett doku
 
 #### Introduktion
 
-Detta är dokumentets viktigaste punkt. Försök här att sälja iden med en mening.
+Detta är dokumentets viktigaste punkt. Försök här att sälja visionen med en mening. Vad är det som gör just detta projekt intressant.
 
 #### Beskrivning
 
