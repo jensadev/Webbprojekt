@@ -1,6 +1,6 @@
 # Start
 
-Den här guiden är till för webbprojekt inom kurserna:
+Här finns material för dokumentation inom följande kurser.
 
 * Webbutveckling 1
 * Webbutveckling 2
