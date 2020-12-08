@@ -17,6 +17,8 @@ Dokumentet tjänar som både en slutrapport för ditt projekt, men även en till
 
 #### Titel
 
+Författare och datum.
+
 #### Inledning
 
 Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. Vad är det för något du ska utveckla, berätta om din inspiration och idéer.
@@ -27,9 +29,11 @@ Här beskriver du den teknik du har använt och motiverar detta. Berätta om di
 
 Berätta om hur du har testat din produkt och arbetat med detta.
 
+I bakgrunden kan du med fördel inkludera bilder som beskriver och förklarar projektet.
+
 #### Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför.
+Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du kunna upprepa framgången i projektet.
 
 #### Negativa erfarenheter
 
