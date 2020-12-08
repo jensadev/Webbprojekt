@@ -6,6 +6,8 @@ Post Mortem är en dokumentationsform som är populär inom [Agilt ](https://sv.
 
 Dokumentet tjänar som både en slutrapport för ditt projekt, men även en tillbakablick och reflektion över ditt arbete.
 
+Det är viktigt att du är så konkret som möjligt i ditt dokument. Ett bra sätt kan vara att skapa punktlistor över sådant som du har gjort i arbetet, du kan sedan ta ställning till om det gick bra eller dåligt. Sortera sedan in det i positivt/negativt och försöka att skriva vad som gjorde att det blev så och hur kan du använda det i nästa projekt.
+
 ### Ditt Post Mortem ska innehålla följande delar.
 
 * Titel
@@ -25,7 +27,7 @@ Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. V
 
 #### Bakgrund
 
-Här beskriver du den teknik du har använt och motiverar detta. Berätta om ditt planeringsarbete.
+Här beskriver du den teknik du har använt och eventuellt motiverar detta. Berätta om ditt planeringsarbete. Försök här att inte vara så värderande, redogör för projektet. Hur arbetet gick och erfarenheterna skriver du om i erfarenheterna.
 
 Berätta om hur du har testat din produkt och arbetat med detta.
 
@@ -48,6 +50,4 @@ Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
 ## Malldokument
 
 En mall för att skriva ett Post Mortem i **markdown** finns att ladda ned [här](https://github.com/jensnti/Webbprojekt/blob/master/mallar/postmortem.md).
-
-
 
