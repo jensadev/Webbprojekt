@@ -1,5 +1,7 @@
 # Titel
 
+Författare och datum.
+
 ## Inledning
 
 Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
