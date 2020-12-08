@@ -1,8 +1,4 @@
 # Dokumentation
 
-## Utvecklardagbok
-
-## Commits
-
-## Kommentarer
+D
 

@@ -1,8 +1,10 @@
 # Post Mortem
 
-Post Mortem är en dokumentationsform som är populär inom [Agilt ](https://sv.wikipedia.org/wiki/Agil_systemutveckling)utvecklingsarbete. Fokus ligger på att identifiera dina erfarenheter av arbetet, både positiva eller negativa, och analysera dessa. Syftet med att  analysera erfarenheterna är så att de antingen kan undvikas eller upprepas. Du behöver alltså skriva mer än att X gick bra och Y gick dåligt, du behöver även fundera på varför och hur samt identifiera vad som ska upprepas respektive undvikas.
+Post Mortem är en dokumentationsform som är populär inom [Agilt ](https://sv.wikipedia.org/wiki/Agil_systemutveckling)utvecklingsarbete. Fokus ligger på att identifiera dina erfarenheter av arbetet, både positiva eller negativa, och analysera dessa. Syftet med att  analysera erfarenheterna är så att de antingen kan undvikas eller upprepas. Du behöver alltså skriva mer än att X gick bra och Y gick dåligt, du behöver reflektera på hur och varför det blev så. Du ska även reflektera över vad som ska upprepas respektive undvikas och hur du ska göra det.
 
-> Mobilanpassningen av hemsidan blev bra, men arbetet med den var problematiskt. Jag hade inte planerat för att skapa mobil-versionen först, vilket ledde till att jag fick göra om många steg av desktop-versionen. Detta berodde till största del på att jag inte hade använt flex för positioneringen, något jag behöver bli bättre på.
+> Mobilanpassningen av hemsidan blev bra, men arbetet med den var problematiskt. Jag hade inte planerat för att skapa mobil-versionen först, vilket ledde till att jag fick göra om många steg av desktop-versionen. Detta berodde till största del på att jag inte hade använt flex för positioneringen, något jag behöver bli bättre på. För att undvika detta så kommer jag att arbeta mobile-first i nästa projekt.
+
+Dokumentet tjänar som både en slutrapport för ditt projekt, men även en tillbakablick och reflektion över ditt arbete.
 
 ### Ditt Post Mortem ska innehålla följande delar.
 
@@ -21,11 +23,9 @@ Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. V
 
 #### Bakgrund
 
-Här beskriver du den teknik du har använt och motiverar detta. Berätta om ditt planeringsarbete. 
+Här beskriver du den teknik du har använt och motiverar detta. Berätta om ditt planeringsarbete.
 
-Redovisa din planering och dess delar.
-
-Tester och feedback arbete.
+Berätta om hur du har testat din produkt och arbetat med detta.
 
 #### Positiva erfarenheter
 

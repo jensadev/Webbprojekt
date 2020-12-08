@@ -44,7 +44,3 @@ Planera projektet med ett verktyg som [Trello ](https://trello.com/)eller [GitHu
 
 Skapa en visuell prototyp med [Figma](https://www.figma.com/).
 
-## Malldokument
-
-En mall för att skriva ett visionsdokument i **markdown** finns att ladda ned [här](https://github.com/jensnti/Webbprojekt/blob/master/mallar/vision.md).
-
