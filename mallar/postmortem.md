@@ -8,9 +8,11 @@ Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
 
 Redovisa arbetets olika delar. Så att läsaren förstår vad du gjort och hur.
 
+Använd gärna bilder för att illustrera.
+
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför.
+Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
 
 ## Negativa erfarenheter
 
