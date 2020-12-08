@@ -46,5 +46,5 @@ Skapa en visuell prototyp med [Figma](https://www.figma.com/).
 
 ## Malldokument
 
-En mall i markdown finns att ladda ned [här](https://github.com/jensnti/Webbprojekt/blob/master/mallar/vision.md).
+En mall för att skriva ett visionsdokument i **markdown** finns att ladda ned [här](https://github.com/jensnti/Webbprojekt/blob/master/mallar/vision.md).
 
