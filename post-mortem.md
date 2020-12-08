@@ -23,7 +23,7 @@ Författare och datum.
 
 #### Inledning
 
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. Vad är det för något du ska utveckla, berätta om din inspiration och idéer.
+Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. Vad är det för något du har utvecklat. Vilket problem har ditt projekt syftat på att lösa.
 
 #### Bakgrund
 
