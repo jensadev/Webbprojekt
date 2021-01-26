@@ -12,6 +12,14 @@ Redovisa arbetets olika delar. Så att läsaren förstår vad du gjort och hur.
 
 Använd gärna bilder för att illustrera.
 
+För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, leta sedan
+reda på bilden och kopiera download länken. Det är den du ska använda.
+
+```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
+
 ## Positiva erfarenheter
 
 Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
