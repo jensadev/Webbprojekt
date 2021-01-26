@@ -12,8 +12,7 @@ Redovisa arbetets olika delar. Så att läsaren förstår vad du gjort och hur.
 
 Använd gärna bilder för att illustrera.
 
-För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, leta sedan
-reda på bilden och kopiera download länken. Det är den du ska använda.
+För att lägga till bilder i markdown. Bilderna kan du ladda upp med Git som vanligt, länka dem med url eller filnamnet.
 
 ```
 ![GitHub Logo](/images/logo.png)
