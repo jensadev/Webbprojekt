@@ -27,9 +27,9 @@ Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande. V
 
 #### Bakgrund
 
-Här beskriver du den teknik du har använt och eventuellt motiverar detta. Berätta om ditt planeringsarbete. Försök här att inte vara så värderande, redogör för projektet. Hur arbetet gick och erfarenheterna skriver du om i erfarenheterna.
+I bakgrunden redogör du för projektets delar, här sammanfattar du din arbetsprocess. Beskriv den teknik du har använt och motivera valet av den. Berätta om ditt planeringsarbete. Försök att inte vara värderande, utan redogör för projektet, hur arbetet gick och dina erfarenheterna skriver du om i de följande delarna.
 
-Berätta om hur du har testat din produkt och arbetat med detta.
+Berätta om hur du har testat din produkt.
 
 I bakgrunden kan du med fördel inkludera bilder som beskriver och förklarar projektet.
 
