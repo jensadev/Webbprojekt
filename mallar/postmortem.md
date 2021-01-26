@@ -20,6 +20,8 @@ reda på bilden och kopiera download länken. Det är den du ska använda.
 Format: ![Alt Text](url)
 ```
 
+![NTI Gymnasiet Umeå Logo](nti_logo_white_umea.svg)
+
 ## Positiva erfarenheter
 
 Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
