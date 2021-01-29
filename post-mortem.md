@@ -4,6 +4,8 @@ Post Mortem är en dokumentationsform som är populär inom [Agilt ](https://sv.
 
 > Mobilanpassningen av hemsidan blev bra, men arbetet med den var problematiskt. Jag hade inte planerat för att skapa mobil-versionen först, vilket ledde till att jag fick göra om många steg av desktop-versionen. Detta berodde till största del på att jag inte hade använt flex för positioneringen, något jag behöver bli bättre på. För att undvika detta så kommer jag att arbeta mobile-first i nästa projekt.
 
+> Det är första gången jag arbetat med ett ramverk. Det blev tydligt hur stort och komplext det kan vara. Jag hade svårt att veta var jag skulle börja och kände att dokumentationen var dålig och inte gav mig den hjälp jag önskade. Ett sätt att försöka undvika detta i framtiden kan vara att koda några exempel, tutorials innan jag börjar arbeta med "min egen grej". Då kan jag enklare förhålla mig till vad jag ska försöka skapa.
+
 Dokumentet tjänar som både en slutrapport för ditt projekt, men även en tillbakablick och reflektion över ditt arbete.
 
 Det är viktigt att du är så konkret som möjligt i ditt dokument. Ett bra sätt kan vara att skapa punktlistor över sådant som du har gjort i arbetet, du kan sedan ta ställning till om det gick bra eller dåligt. Sortera sedan in det i positivt/negativt och försöka att skriva vad som gjorde att det blev så och hur kan du använda det i nästa projekt.
