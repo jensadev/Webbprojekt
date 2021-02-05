@@ -51,5 +51,5 @@ Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
 
 ## Malldokument
 
-En mall för att skriva ett Post Mortem i **markdown** finns att ladda ned [här](https://github.com/jensnti/Webbprojekt/blob/master/mallar/postmortem.md).
+En mall för att skriva ett Post Mortem i **markdown** finns att ladda ned [här](https://gist.github.com/jensnti/c377e37ceb4138c4c29c6ab5f5f64c2f).
 
